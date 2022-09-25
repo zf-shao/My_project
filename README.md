@@ -2,7 +2,7 @@
 
 FPMC: https://github.com/khesui/FPMC
 
-HRM: https://github.com/chenghu17/Sequential Recommendation
+HRM: https://github.com/chenghu17/SequentialRecommendation
 
 DREAM: https://github.com/yihong-chen/DREAM
 
