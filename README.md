@@ -1,3 +1,11 @@
+#Paper
+##GNN
+
+##RNN
+
+##KNN
+
+
 # Representative open-source NBRs algorithms
 
 FPMC: https://github.com/khesui/FPMC
