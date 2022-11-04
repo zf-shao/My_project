@@ -1,6 +1,6 @@
 # Paper
 
-## Markov Chain
+=== Markov Chain
 2010_WWW_Factorizing Personalized Markov Chains for Next-Basket Recommendation
 
 ## Distributed representation
