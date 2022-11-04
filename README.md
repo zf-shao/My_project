@@ -1,15 +1,15 @@
 # Paper
 
-=== Markov Chain
+### Markov Chain
 2010_WWW_Factorizing Personalized Markov Chains for Next-Basket Recommendation
 
-## Distributed representation
+### Distributed representation
 2015_SIGIR_Learning Hierarchical Representation Model for Next Basket Recommendation
 
-## Pattern mining
+### Pattern mining
 2017_ICDM_Market Basket Prediction using User-Centric Temporal Annotated Recurring Sequences
 
-## RNN
+### RNN
 2016_SIGIR_A Dynamic Recurrent Model for Next Basket Recommendation
 
 2018_SIGIR_An Attribute-aware Neural Attentive Model for Next Basket Recommendation
@@ -28,12 +28,12 @@
 
 2022_SIGIR_ReCANet A Repeat Consumption-Aware Neural Network for Next Basket Recommendation in Grocery Shopping
 
-## KNN
+### KNN
 2020_SIGIR_Modeling Personalized Item Frequency Information for Next-basket Recommendation
 
 2020_UMAP_Recency Aware Collaborative Filtering for Next Basket Recommendation
 
-## GNN
+### GNN
 2020_BigData_Basket Recommendation with Multi-Intent Translation Graph Neural Network
 
 2020_KDD_Predicting Temporal Sets with Deep Neural Networks
